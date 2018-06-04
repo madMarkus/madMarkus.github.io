@@ -43,7 +43,7 @@ body p {
 }
 
 .scroll-container {
-  overflow: scroll;
+  overflow: auto;
   padding-bottom: 20px;
   height: 100%;
   width: 100%;

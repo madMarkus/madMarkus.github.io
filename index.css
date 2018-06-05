@@ -20,7 +20,7 @@ body {
 body .main {
   display: flex;
   flex-direction: column;
-  background-image: url(./background-pic.jpg);
+  background-image: url(./img/background-pic.jpg);
   background-size: auto;
   background-position: center;
   height: 100%;
@@ -107,7 +107,7 @@ body p {
 .profile-pic {
   width: 150px;
   height: 150px;
-  background-image: url(./profile-pic.JPG);
+  background-image: url(./img/profile-pic.JPG);
   background-size: cover;
   overflow: hidden;
   /* border: rgba(45, 45, 45, 0.5) 1px solid; */
